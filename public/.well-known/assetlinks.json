@@ -1,0 +1,20 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.orme",
+        "sha256_cert_fingerprints":
+        ["A8:F9:15:62:75:0D:B1:AE:0F:84:C4:16:2F:D3:57:4F:C7:C0:06:3B:1C:73:7E:F4:DF:90:06:ED:14:CA:62:1C"]
+      }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.orme",
+        "sha256_cert_fingerprints":
+        ["71:68:70:AD:2D:6C:82:09:25:49:CA:F0:A3:C6:63:51:01:B8:A2:38:DB:8E:74:12:A5:0E:97:ED:02:C0:D6:CA"]
+      }
+    }
+  ]
